@@ -2,5 +2,5 @@
   "name": "Chalkboard",
   "description": "Leave a message and try out Heroku CI",
   "repository": "https://github.com/heroku/chalkboard",
-  "keywords": ["node", "ci", "heroku", "express", "static", "guestbook"],
+  "keywords": ["node", "ci", "heroku", "express", "static", "guestbook"]
 }
